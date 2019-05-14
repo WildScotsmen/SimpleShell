@@ -9,8 +9,6 @@
 
 /**************************************************************************
  * Authors: Gary Fleming, Jacob McCloughan
- * Class: CIS452 - Operating Systems Concepts
- * Professor: Dr. Greg Wolffe
  * Date: 1/24/2019
  * 
  * A simple shell that reads in commands from the user. The user can
